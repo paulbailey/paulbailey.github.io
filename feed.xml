@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infrequent Rambling</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://www.infrequentrambling.net/</link>
+    <atom:link href="http://www.infrequentrambling.net/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 19 Oct 2014 14:02:10 +0100</pubDate>
+    <lastBuildDate>Sun, 19 Oct 2014 14:02:10 +0100</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>The writing has been on the wall for years</title>
+        <description>&lt;p&gt;About four years ago, I had time to kill in Newcastle.&lt;/p&gt;
+&lt;p&gt;I went into HMV for a browse.&lt;/p&gt;
+&lt;p&gt;They were playing a song I hadn&#39;t heard before, but that I liked.&lt;/p&gt;
+&lt;p&gt;I used Shazam to find out what it was, and bought it on iTunes. That was easier than finding a shop assistant, then finding the CD, then queuing up to pay for it.&lt;/p&gt;
+&lt;p&gt;Hard for them to make a profit when they can&#39;t even guarantee the sale on an impulse purchase in their own store.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Jan 2013 12:30:51 +0000</pubDate>
+        <link>http://www.infrequentrambling.net/the-writing-has-been-on-the-wall-for-years.html</link>
+        <guid isPermaLink="true">http://www.infrequentrambling.net/the-writing-has-been-on-the-wall-for-years.html</guid>
+        
+        
+        <category>music</category>
+        
+      </item>
+    
+      <item>
+        <title>Even free costs</title>
+        <description>&lt;p&gt;Instagram, eh? It&#39;s an outrage, etc.&lt;/p&gt;
+&lt;p&gt;I&#39;m somewhat surprised by reaction people have had to this forthcoming change in the T&amp;amp;Cs of a &quot;free&quot; service.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 18 Dec 2012 13:29:00 +0000</pubDate>
+        <link>http://www.infrequentrambling.net/even-free-costs.html</link>
+        <guid isPermaLink="true">http://www.infrequentrambling.net/even-free-costs.html</guid>
+        
+        
+        <category>uncategorised</category>
+        
+      </item>
+    
+      <item>
+        <title>Tax and morality</title>
+        <description>&lt;p&gt;This probably won&#39;t be a popular post, but the tax affairs of celebrities (and non-celebrities) don&#39;t seem to be leaving the news agenda any time soon, so I wanted to put my thoughts down in writing.&lt;/p&gt;
+&lt;p&gt;There&#39;s a chance that this will be seen as a defence of Jimmy Carr, or Gary Barlow, or even, heaven forbid, Sir Phillip Green. It certainly isn&#39;t intended as such, and personally I feel that a Keynesian approach to the recession is by far the most sensible. Given that, I do feel that a higher tax burden needs be borne by the more well off.&lt;/p&gt;
+&lt;p&gt;What I don&#39;t think, however, is that morality should form part of how tax is calculated. Here&#39;s why.&lt;/p&gt;
+&lt;p&gt;If you cast your mind back, you might remember a fair-sized kerfuffle about certain individuals remuneration in the public sector. Without going into too much detail, certain people with fixed-term contracts, often in senior positions, were being paid through a limited company, rather than as employees. By being paid in this manner, they could take a large proportion of their income as a dividend, attracting a lower rate of tax, rather than as salary. &lt;a href=&quot;http://www.bbc.co.uk/news/uk-politics-16854187&quot;&gt;Ed Lester, the head of the Student Loans Company&lt;/a&gt;, was one such individual.&lt;/p&gt;
+&lt;p&gt;This was roundly condemned in the media, and condemned as tax avoidance. There was one point not mentioned in the coverage though. &lt;a href=&quot;http://www.hmrc.gov.uk/ir35/&quot;&gt;IR35&lt;/a&gt;, introduced in 2000, seeks to define &quot;disguised employment&quot;, and means that someone working through a limited company for the purpose of reducing their tax burden, is liable to be taxed as if an employee.&lt;/p&gt;
+&lt;p&gt;Simply put, if an individual is working in this manner, they&#39;re liable to pay the greater amount of tax. It might be argued that this regulation is not well enforced, but then we should look at better funding for HMRC.&lt;/p&gt;
+&lt;p&gt;Following on from the Jimmy Carr revelations, newspapers have reported that JK Rowling &quot;pays all her taxes&quot;. I&#39;m sure she does, and she has&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Jun 2012 16:47:00 +0100</pubDate>
+        <link>http://www.infrequentrambling.net/tax-and-morality.html</link>
+        <guid isPermaLink="true">http://www.infrequentrambling.net/tax-and-morality.html</guid>
+        
+        
+        <category>uncategorised</category>
+        
+      </item>
+    
+      <item>
+        <title>The Metropolitan Police and your phone</title>
+        <description>&lt;p&gt;
+&lt;p class=&quot;p1&quot;&gt;BBC News has published a story (actually posted last night) with the headline &lt;a href=&quot;http://www.bbc.co.uk/news/technology-18102793&quot;&gt;Met Police to extract suspects&#39; mobile phone data&lt;/a&gt;.&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;The story is seeing some traction on Twitter this morning, so I thought I&#39;d dig in a little, and see what I could find.&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;It appears that the system that the Met have bought is produced by &lt;a href=&quot;http://www.radio-tactics.com&quot;&gt;Radio Tactics&lt;/a&gt;. From having a look at their site, my guess is that they&#39;ve bought &lt;a href=&quot;http://www.radio-tactics.com/products/law/aceso-kiosk&quot;&gt;ACEOS Kiosk&lt;/a&gt;. Looking at the &lt;a href=&quot;http://www.radio-tactics.com/datasheets/rt-ds-ukv7-aceso-1332426274-1334334584.pdf&quot;&gt;&quot;full datasheet&quot;&lt;/a&gt;, the selling point of the system is pulling data from various electronic devices, and storing that data securely, with a full audit trail.&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;Thumbs up to that. If the police want to acquire this data, I want it to be secure. But what else is it doing? Actually, it&#39;s difficult to tell for sure, without a more comprehensive description. what does seem clear is that it understands the layout of data internally on lots of devices, in order to be able to extract (for example) text messages, IM conversations, and so on. The operator doesn&#39;t need to know anything about the internal implementation of the device to be able to extract and archive data on the phone.&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;What is less clear is whether it can bypass hardware encryption on these devices. My understanding is that all BlackBerry devices, all iOS devices from iPhone 3GS onwards, and recent Android devices (because of the fragmentation of this OS, it wasn&#39;t quite so clear which ones) encrypt, in hardware, all their data stored internally.&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;This means, that without a passcode, data can&#39;t be read directly from the internal storage. That read access would be how the product extracts information. Nowhere in the description of ACEOS does it detail cracking encryption like this. If it did, I imagine that would be a big selling point. Indeed, if this hardware encryption was easily cracked, that would be a big technology story too.&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;It seems far more likely to me that this product is about rapidly and efficiently extracting data that would have previously required a forensic specialist. I don&#39;t think that&#39;s a bad thing, and my guess is that it can&#39;t be done without your passcode anyway (you do have one set, don&#39;t you?).&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;If the police suspect that your phone has been used for criminal activity, then you&#39;ll be obliged to give them the passcode anyway (I think that not doing so is an offence). Encryption or not, they&#39;ll get onto your phone, if they have reasonable suspicion of criminal activity.&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;So, onto retention of the data, and that&#39;s where the real problem is. From the original article:&lt;/p&gt;
+&lt;p class=&quot;p2&quot;&gt;A Met Police spokesman told the BBC that when a suspect was released, &quot;data received from the handsets is retained and handled in accordance with other data held by the MPS [Metropolitan Police Service]&quot; - regardless of whether charges had been brought.&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;So actually, this isn&#39;t a technology story at all. If you refuse to give the police your passcode, or wilfully delete data from the phone, you&#39;ve broken the law anyway. The latest devices have sufficient means to protect your data from casual extraction. The issue here is about data, and retention thereof, and we&#39;ve been down this road with DNA, fingerprints, any information that the police might want to retain to make their job easier.&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;The solution to this particular problem is a change of policy, not a 79p app that enables you to destroy evidence.&lt;/p&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 18 May 2012 10:08:00 +0100</pubDate>
+        <link>http://www.infrequentrambling.net/the-metropolitan-police-and-your-phone.html</link>
+        <guid isPermaLink="true">http://www.infrequentrambling.net/the-metropolitan-police-and-your-phone.html</guid>
+        
+        
+        <category>uncategorised</category>
+        
+      </item>
+    
+      <item>
+        <title>What do IP addresses tell us anyway?</title>
+        <description>&lt;p&gt;Yesterday I saw some misinformation being distributed about IP addresses. It was in the context of a rather petty disgreement about someone&#39;s identity on Twitter, but it did make me think that this is an area that plenty of people don&#39;t really understand.&lt;/p&gt;
+&lt;p&gt;With that in mind, here&#39;s a brief run-down of what an IP address is, what it says about you, and what it doesn&#39;t. I&#39;m by no means a networking expert, but I am an IT professional and hope that I have a decent enough grasp of the topic to explain things correctly. Please feel free to correct me if I make any mistakes.&lt;/p&gt;
+&lt;p&gt;One of these addresses (IPv4 specifically, which is the type of address that is still commonly used across the internet) is formed of four numbers, from 0 to 255, separated by dots. Every device connected to a network will have at least one of these addresses.&lt;/p&gt;
+&lt;p&gt;The more observant amongst you will have spotted a flaw in the system. If the addresses take the format 192.168.0.34, then we only have 4,228,250,625 possible addresses. That might seem like a lot, but when you think of every phone, tablet, laptop, and computer in the world, not to mention TVs, DVD players and others, it&#39;s not very many at all.&lt;/p&gt;
+&lt;p&gt;That&#39;s wny we have the concept of &lt;strong&gt;private&lt;/strong&gt; and &lt;strong&gt;public&lt;/strong&gt; IP addresses. There are ranges of addresses that are designated as &quot;private&quot;, which can be reused on internal networks (like your wi-fi network at home). The most common range used is 192.168.X.X&lt;/p&gt;
+&lt;p&gt;If you just had a private IP address though, you would never be able to connect to anything on the internet, just to other devices on your home network. This is where your broadband router comes in. It does the clever trick of translating your private IP address into a public one.&lt;/p&gt;
+&lt;p&gt;Your ISP (that&#39;s BT, or Virgin Media for example) assigns a public IP address to your router, which then shares it with all the devices connected to your network. This is why an IP address isn&#39;t quite enough to identify someone online. The public address could be shared between several people. To someone outside your own home network, they would never know who in the house is connected.&lt;/p&gt;
+&lt;p&gt;The situation becomes even more confused because of the way ISPs tend to distribute these public IP addresses to their customers&#39; routers. These addresses tend to be &#39;dynamic&#39;, which means that a particular public IP address isn&#39;t tied to a particular account, let alone a particular internet user. What&#39;s my IP address today might be yours tomorrow.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Don&#39;t be fooled though. My IP address is assigned &#39;dynamically&#39; by my ISP, but it has only changed once in the last three months, when I upgraded my connection speed. In that time, the router was rebooted several times, and it always ended up with the same address.&lt;/p&gt;
+&lt;p&gt;Even if your ISP does change IP addresses more frequently, it isn&#39;t happening second by second. If you think about it, the IP address is where a web server sends its pages to, where an mail server sends its e-mails to. If that address is constantly changing, then things would fail to arrive, and need to be re-sent, all the time.&lt;/p&gt;
+&lt;p&gt;Even this dynamic changing doesn&#39;t hide you from law enforcement, obviously. ISPs keep records of which IP address is assigned to which customer at what time. It&#39;s this record-keeping that probably means public IP addresses change less than they might. Some ISPs also offer static public IP addresses, which are useful for users that want to be able to connect to their home network remotely.&lt;/p&gt;
+&lt;p&gt;Still, you do have a degree of anonymity from people hosting servers, who don&#39;t have a warrant to get your account information. All they can really derive from your IP address is your (rough) geographic location (the accuracy of this varies wildly), and probably who your ISP is. If you&#39;re connecting through a work computer, they probably have a decent idea of the company you work for, but this depends on how large the company is, and whether they have their own public IP addresses.&lt;/p&gt;
+&lt;p&gt;It&#39;s also worth noting that public IP addresses aren&#39;t shared across ISP customers. If they were, a web server wouldn&#39;t know whether to send the BBC Sport homepage to you, or your neighbour. A public IP address is unique to the router in your home, at a given point in time.&lt;/p&gt;
+&lt;p&gt;In summary, your IP address isn&#39;t some Prisoner-esque number that identifies you to all and sundry, but neither is it an unidentifable detail that gives nothing away about you.&lt;/p&gt;
+&lt;p&gt;It could, for example, be used to corrolate two online identities as the same person (or at least on the same private network). That would be a fair assumption if the IP addresses logged were the same, and there wasn&#39;t a lot of time between the requests logged.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 May 2012 09:18:00 +0100</pubDate>
+        <link>http://www.infrequentrambling.net/what-do-ip-addresses-tell-us-anyway.html</link>
+        <guid isPermaLink="true">http://www.infrequentrambling.net/what-do-ip-addresses-tell-us-anyway.html</guid>
+        
+        
+        <category>uncategorised</category>
+        
+      </item>
+    
+      <item>
+        <title>Want to know who&#39;s selling on your Gmail address?</title>
+        <description>&lt;p&gt;Given the &lt;a href=&quot;http://www.bbc.co.uk/news/technology-17586605&quot;&gt;latest in a long line of erosion of civil liberties in the UK&lt;/a&gt;, I thought I&#39;d quickly post this tip so you can monitor who&#39;s being with the data entrusted to them, and who&#39;s passing it on, presumably for cash.&lt;/p&gt;
+&lt;p&gt;If you&#39;re a Gmail user, there&#39;s a little known trick you can use to personalise your email address. Google ignores everything in the first part of your address after a &#39;+&#39; sign, that is to say, as far as their mail servers&amp;nbsp;are concerned, the following addresses will all be delivered to Britain&#39;s latest Eurovision entry:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div&gt;&lt;a href=&quot;mailto:englebert.humperdink@gmail.com&quot;&gt;englebert.humperdink@gmail.com&lt;/a&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div&gt;&lt;a href=&quot;mailto:englebert.humperdink+onlineshop@gmail.com&quot;&gt;englebert.humperdink+onlineshop@gmail.com&lt;/a&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div&gt;&lt;a href=&quot;mailto:englebert.humperdink+mybank@gmail.com&quot;&gt;englebert.humperdink+mybank@gmail.com&lt;/a&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div&gt;&lt;a href=&quot;mailto:englebert.humperdink+myregistrationatadodgysiteishouldnthavegivenmyaddressto@gmail.com&quot;&gt;englebert.humperdink+myregistrationatadodgysiteishouldnthavegivenmyaddressto@gmail.com&lt;/a&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All you need to do is add an appropriate suffix when you give your address to someone, and you&#39;ll know if they&#39;ve shared it with someone else simply by checking the &#39;To:&#39; field on your emails. If you really want to get clever, you can set up filters based around the different addresses.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Apr 2012 18:20:00 +0100</pubDate>
+        <link>http://www.infrequentrambling.net/want-to-know-whos-selling-on-your-gmail-addre.html</link>
+        <guid isPermaLink="true">http://www.infrequentrambling.net/want-to-know-whos-selling-on-your-gmail-addre.html</guid>
+        
+        
+        <category>uncategorised</category>
+        
+      </item>
+    
+      <item>
+        <title>Dominic Mohan really irritates me</title>
+        <description>&lt;p&gt;From &lt;a href=&quot;http://www.guardian.co.uk/media/2012/feb/02/sun-editor-judges-privacy&quot;&gt;today&amp;rsquo;s Guardian&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote class=&quot;posterous_short_quote&quot;&gt;&lt;p&gt;&amp;hellip;[the law should be] rewritten with a clause that emphasises how sacred freedom of expression is.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Which can of course be expressed:&lt;/p&gt;
+&lt;blockquote class=&quot;posterous_short_quote&quot;&gt;&lt;p&gt;the law should be rewritten with a clause that emphasises how sacred &lt;strong&gt;my right to decide how intrusive I want to be&lt;/strong&gt; is.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;His readership doesn&amp;rsquo;t like the Human Rights Act apparently:&lt;/p&gt;
+&lt;blockquote class=&quot;posterous_short_quote&quot;&gt;&lt;p&gt;Quite a few of our readers would be in favour of abolishing the Human Rights Act, that&amp;rsquo;s for sure.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Of course, that&amp;rsquo;s nothing to do with the way he presents said law in his paper. He&amp;rsquo;s always fair and balanced when it comes to discussing legal matters that impinge on his newspaper&amp;rsquo;s business model.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Feb 2012 15:59:16 +0000</pubDate>
+        <link>http://www.infrequentrambling.net/dominic-mohan-really-irritates-me.html</link>
+        <guid isPermaLink="true">http://www.infrequentrambling.net/dominic-mohan-really-irritates-me.html</guid>
+        
+        
+        <category>uncategorised</category>
+        
+      </item>
+    
+      <item>
+        <title>My Best Shot 2011</title>
+        <description>&lt;p&gt;Here&#39;s my entry for Flickr&#39;s &lt;a href=&quot;http://www.flickr.com/groups/yourbestshot2011/&quot;&gt;Your Best Shot 2011&lt;/a&gt;. Not sure I&#39;ve made the right choice, but seeing these two getting along famously at San Diego Zoo was a lovely moment.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/observationsandmachinations/6014603550/&quot; title=&quot;Best of friends by Paul Bailey, on Flickr&quot;&gt;&lt;img src=&quot;assets/6014603550_9dcba294a4.jpg&quot; height=&quot;332&quot; alt=&quot;Best of friends&quot; width=&quot;500&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Dec 2011 12:29:00 +0000</pubDate>
+        <link>http://www.infrequentrambling.net/my-best-shot-2011.html</link>
+        <guid isPermaLink="true">http://www.infrequentrambling.net/my-best-shot-2011.html</guid>
+        
+        
+        <category>uncategorised</category>
+        
+      </item>
+    
+      <item>
+        <title>Tabloid photographs</title>
+        <description>&lt;p&gt;Is there anyone in the world that doesn&#39;t know the following?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When you shoot 8 frames per second, it is easy to get any facial/expression appearance you want; from lecherous to sad, from drunk to happy, from tired to wired.&lt;/li&gt;
+&lt;li&gt;A powerful flash can render apparently opaque clothing translucent.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 30 Oct 2011 15:13:00 +0000</pubDate>
+        <link>http://www.infrequentrambling.net/tabloid-photographs.html</link>
+        <guid isPermaLink="true">http://www.infrequentrambling.net/tabloid-photographs.html</guid>
+        
+        
+        <category>uncategorised</category>
+        
+      </item>
+    
+      <item>
+        <title>Wise words, I think</title>
+        <description>&lt;p&gt;Just saw this quote:&amp;nbsp;&lt;/p&gt;
+&lt;blockquote class=&quot;posterous_medium_quote&quot;&gt;&lt;p&gt;&quot;It is a way of life that we all enjoy. We are still locked into the mindset that rising house prices are a good thing. It will be a good sign that we are moving to a more constructive way of thinking when we don&#39;t cheer every time house prices go up.&quot;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Alistair Milne, reader in banking and finance at Cass Business School, author of &lt;em&gt;The Fall of the House of Credit&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&quot;http://www.guardian.co.uk/business/2010/aug/08/credit-crunch-analysis?intcmp=239&quot;&gt;source&lt;/a&gt;]&lt;/p&gt;
+</description>
+        <pubDate>Fri, 07 Oct 2011 14:16:00 +0100</pubDate>
+        <link>http://www.infrequentrambling.net/wise-words-i-think.html</link>
+        <guid isPermaLink="true">http://www.infrequentrambling.net/wise-words-i-think.html</guid>
+        
+        
+        <category>uncategorised</category>
+        
+      </item>
+    
+  </channel>
+</rss>
