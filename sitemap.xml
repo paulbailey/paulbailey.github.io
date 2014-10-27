@@ -917,18 +917,90 @@
   
   <url>
     <loc>http://www.infrequentrambling.net/about/</loc>
-    <lastmod>2014-10-19T14:39:08+01:00</lastmod>
+    <lastmod>2014-10-27T18:27:04+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://www.infrequentrambling.net/</loc>
-    <lastmod>2014-10-19T14:39:08+01:00</lastmod>
+    <lastmod>2014-10-27T18:27:04+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   
+  
+  <url>
+    <loc>http://www.infrequentrambling.net/node_modules/grunt/node_modules/colors/example.html</loc>
+    <lastmod>2013-07-26T06:36:07Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.infrequentrambling.net/node_modules/grunt/node_modules/grunt-legacy-log/node_modules/underscore.string/test/test.html</loc>
+    <lastmod>2013-07-10T10:41:16Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.infrequentrambling.net/node_modules/grunt/node_modules/grunt-legacy-log/node_modules/underscore.string/test/test_standalone.html</loc>
+    <lastmod>2013-07-10T10:41:16Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.infrequentrambling.net/node_modules/grunt/node_modules/grunt-legacy-log/node_modules/underscore.string/test/test_underscore/index.html</loc>
+    <lastmod>2013-07-11T09:39:45Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.infrequentrambling.net/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/node_modules/underscore/index.html</loc>
+    <lastmod>2013-01-30T02:13:48Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.infrequentrambling.net/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/node_modules/underscore.string/test/test.html</loc>
+    <lastmod>2013-07-10T10:41:16Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.infrequentrambling.net/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/node_modules/underscore.string/test/test_standalone.html</loc>
+    <lastmod>2013-07-10T10:41:16Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.infrequentrambling.net/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/node_modules/underscore.string/test/test_underscore/index.html</loc>
+    <lastmod>2013-07-11T09:39:45Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.infrequentrambling.net/node_modules/grunt/node_modules/underscore.string/test/test.html</loc>
+    <lastmod>2013-07-10T10:41:16Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.infrequentrambling.net/node_modules/grunt/node_modules/underscore.string/test/test_standalone.html</loc>
+    <lastmod>2013-07-10T10:41:16Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.infrequentrambling.net/node_modules/grunt/node_modules/underscore.string/test/test_underscore/temp_tests.html</loc>
+    <lastmod>2013-07-10T11:31:52Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.infrequentrambling.net/node_modules/grunt/node_modules/underscore.string/test/test_underscore/test.html</loc>
+    <lastmod>2013-07-10T11:31:52Z</lastmod>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
