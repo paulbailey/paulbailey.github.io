@@ -1,0 +1,64 @@
+Title: Richard Herring's Hitler Moustache, or Involuntary Audience Participation
+Date: 2009-07-21 00:43
+Author: Paul Bailey
+Tag: Live stuff
+Slug: richard-herrings-hitler-moustache-or-involuntary-audience-participation
+
+Just a quick entry today. I toodled off to see a couple of Edinburgh
+previews this evening. I'd seen Hitler Moustache about a month ago at my
+local, and was interested to see how it might have changed over a month.
+Danielle Ward also did her show, Lies, to open the evening and despite
+being cold-ridden, was very funny. In fact, funny than I think she
+realised. A couple of times I felt as though there was some highly
+amusing material that she didn't give quite enough space/time (no, not a
+continuum) for. There was obviously a bit of work to do on the structure
+still, but I laughed the whole way through, and imagine it will be even
+better in 2-3 weeks.
+
+Mr. Herring had changed his show quite a bit. There were some bits he
+removed (I think he already blogged about doing that) that didn't relate
+to the overall theme, and there was a lot more new stuff in there. I can
+say I thought that it was both interesting and funny four weeks ago, but
+it was even better this time around, and certainly felt more of a single
+piece, rather than standalone bits. I expect it will be well reviewed
+when it debuts in the Fringe.
+
+I met a few similarly deranged people afterwards sporting Virgilio
+Anderson t-shirts, and I think we all felt a bit reassured that we
+didn't look like lunatics when there was more than one person wearing
+the bloody things. Of course, we looked like a cult instead, but that's
+a bit of a step up I think. Richard did his best to not look horrified
+to see us, and chatted for a bit at the bar before heading home.
+
+Heading home was almost the most interesting part of the evening for me.
+I'd acquired a copy of the programme for the show, which features a
+quite frankly creepy picture of Mr. H on the front in full-on Mein Kampf
+mode. Well, I had already been to work, and thus in and around
+Hammersmith, in a t-shirt emblazoned with "Who Is Virgilio Anderson?".
+This being the case, I'd already thought that I knew what being a woman
+with large breasts must be like, as everyone, and I mean \*everyone\*,
+stared at my chest.
+
+This did not prepare for the strange looks I got on the tube, clutching
+a programme which ostensibly had a picture of Hitler on the front. The
+woman sat next to me must have looked at it about 10 times, each time
+looking up at my face, and then back down at the photo again. She
+clearly objected, but hadn't realised I was watching her disgust in the
+reflection opposite. Initially I didn't mind, as I objected quite
+strongly to her overly tight powder blue pedal pushers, which I really
+felt weren't a good look for a woman in her 60s. Still, my bitter
+self-righteousness didn't last for long. I started looking around the
+carriage, and paranoia kicked in. Almost everyone was looking at me, and
+my apparently fascistic document. Of course, they may have been staring
+to try to see what the lettering said, but I was already sure I was
+causing some degree of offence. In an act of social awareness that would
+usually be anathema to me, I turned the programme over, revealing an
+advert for Scope. Hopefully that would confuse them, although
+realistically they couldn't make it out from more than two feet away.
+
+I scuttled home from the station, and sat down with a new-found
+admiration for Richard Herring. If I'd been that bothered by carrying
+that on a 40 minute tube journey, what must have that moustache have
+been like for weeks and weeks? Honestly people, go and see the show,
+otherwise a middle-aged man's social awkwardness will have been for
+nothing!

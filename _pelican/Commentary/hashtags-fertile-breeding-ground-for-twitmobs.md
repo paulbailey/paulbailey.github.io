@@ -1,0 +1,36 @@
+Title: Hashtags, fertile breeding ground for "twitmobs"
+Date: 2009-05-13 11:46
+Author: Paul Bailey
+Tag: Social Media
+Slug: hashtags-fertile-breeding-ground-for-twitmobs
+
+So, after my last Twitter-based entry, I've been thinking a bit more
+about the whole \#amazonfail thing. My point was about how we should
+have held Amazon to account for it anyway, regardless of the whether it
+was deliberate or not.
+
+Something [@Glinner](http://twitter.com/Glinner)
+[said](http://twitter.com/Glinner/status/1749366672) made me think
+though; Twitter is the perfect medium for a mob. I think someone once
+said "a person is smart, but people are stupid". Actually, Google tells
+me that's from Men In Black, but I still like it. There's something
+about the conformity and self-validation of a large group of people that
+can fan the flames of what might be a reasonable point into something
+altogether more sinister.
+
+Mobs are bad enough, but with hashtags and trending topics on Twitter,
+finding groups of like-minded people is easy. Perhaps the easiest it's
+ever been, and that's definitely something we all need to be careful of.
+The \#fixreplies hashtag is one of them. Maybe I'm being stupid, but are
+that many people really bothered about these not appearing on their
+timeline? It bugged me when I did have it on, and I follow less than 100
+people. As it is, plenty of funny and interesting tweets pass me by,
+without the extra noise involved.
+
+Actually though, I think that there a lot of people tweeting with the
+hashtag because someone they follow did, and they want to "help that
+person out". And so the fans are flamed. If Twitter is used more and
+more, then these twitmobs will crop up more and more often. Of course,
+there are also some great charities and causes that gain much needed
+attention from their use too, so it's not all bad. I'm just going to try
+to avoid being part of a mob from now on.
